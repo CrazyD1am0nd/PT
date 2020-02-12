@@ -1,1 +1,1 @@
-{"swagger":"2.0","info":{description: "Click here to see the API details [Click here to see the API](https://www.example.com/image.png"onerror="alert('XSS'))"}}
+{"swagger":"2.0","info":{description: "Click here to see the API details [Click Me](javascript:alert('Uh oh...'))"}}
