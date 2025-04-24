@@ -1,0 +1,15 @@
+Hey Hey, this is a test and nothing in this page is sensitive.
+
+ENV["AWS_ACCESS_KEY_ID"]="AKIAJOEA2PMQHX7PKSQA"
+ENV["AWS_SECRET_ACCESS_KEY"]="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"
+
+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
+
+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
+
+// Access Key ID:
+// AKIAI4722Q6MVBY56V3Q
+// Secret Access Key:
+// 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
+
+mongodb+srv://local:test12345@cluster0.f8vmc.mongodb.net/?retryWrites=true&w=majority
